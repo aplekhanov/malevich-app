@@ -10,4 +10,4 @@ Generated icons are pixel perfect and can be used in the "Open App" action of sh
 
 Custom Icon Maker is the best companion for your favorite widget app. It lets you create beautiful icons in a fun and easy way! 
 
-[Color Icon Maker](/assets/screenshot/ColorIconMaker.png)
+![Color Icon Maker](/assets/screenshot/ColorIconMaker.png)

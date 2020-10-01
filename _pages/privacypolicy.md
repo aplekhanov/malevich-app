@@ -5,10 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 28 2020
+October 1 2020
 
 # Privacy Policy
-Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you through our app, Malevich App Icon Maker.
+Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you through our app, Custom Icon Maker.
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 

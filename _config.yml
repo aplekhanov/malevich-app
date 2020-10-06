@@ -56,7 +56,7 @@ cover_image                               : assets/headerimage.jpg              
 cover_overlay_color                       : 
 cover_overlay_transparency                : 
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
@@ -102,6 +102,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - landing.png
 
 collections:
   pages:

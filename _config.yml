@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Color Icon Maker                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1532894165                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -20,14 +20,14 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Alexey Plekhanov                                
-your_link                                 : mailto:mail@aplekhanov.com
-your_city                                 : Sengiley                               
+your_link                                 : https://apps.apple.com/us/developer/alexey-plekhanov/id543015684
+your_city                                 :                                
 email_address                             : mail@aplekhanov.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : alexeyplekhanov
 github_username                           : aplekhanov
-youtube_username                          : UCMmjXn01NBLa06-wE3lG1LA
+youtube_username                          : 
 
 
 
@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Glyphs
     description                           : Over 2000 system glyphs
-    fontawesome_icon_name                 : apple 
+    fontawesome_icon_name                 : mobile 
 
   - title                                 : Emoji & Text
     description                           : Turn any emoji or a word into an icon

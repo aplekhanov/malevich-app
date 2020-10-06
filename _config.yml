@@ -25,16 +25,26 @@ your_city                                 :
 email_address                             :
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          :
-github_username                           : 
+twitter_username                          : alexeyplekhanov
+github_username                           : aplekhanov
 youtube_username                          : MmjXn01NBLa06-wE3lG1LA
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
- 
 
+  - title                                 : Colors
+    description                           : Hundreds of beautiful colors
+    fontawesome_icon_name                 : brush 
+
+  - title                                 : Glyphs
+    description                           : Over 2000 system glyphs
+    fontawesome_icon_name                 : apple 
+
+  - title                                 : Emoji & Text
+    description                           : Turn any emoji or a word into an icon
+    fontawesome_icon_name                 : smile 
 
 
 # Theme Settings

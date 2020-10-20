@@ -1,15 +1,15 @@
 #page title
-page_title                                :                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1532894165                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/app/apple-store/id1532894165?pt=869040&ct=landing&mt=8# Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Create beautiful icons and personalize your home screen like never before!
@@ -19,15 +19,15 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Alexey Plekhanov                                
-your_link                                 : https://apps.apple.com/us/developer/alexey-plekhanov/id543015684
-your_city                                 :                                
+your_name                                 : Alexey Plekhanov                              
+your_link                                 : https://apps.apple.com/us/developer/alexey-plekhanov/id543015684                  
+your_city                                 :                                 
 email_address                             : mail@aplekhanov.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : alexeyplekhanov
 github_username                           : aplekhanov
-youtube_username                          : 
+youtube_username                          :
 
 
 
@@ -36,15 +36,15 @@ features                                  :
 
   - title                                 : Colors
     description                           : Hundreds of beautiful colors
-    fontawesome_icon_name                 : brush 
-
+    fontawesome_icon_name                 : brush
+  
   - title                                 : Glyphs
     description                           : Over 2000 system glyphs
-    fontawesome_icon_name                 : mobile 
-
+    fontawesome_icon_name                 : mobile
+    
   - title                                 : Emoji & Text
     description                           : Turn any emoji or a word into an icon
-    fontawesome_icon_name                 : smile 
+    fontawesome_icon_name                 : smile
 
 
 # Theme Settings
@@ -52,25 +52,25 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : 
-cover_overlay_transparency                : 
+cover_image                               : assets/purplecover.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.0
 
-device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#007aff"
+link_color                                : "#1d63ea"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
-feature_text_color                        : "#333333"
+feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#ffffff"
-feature_icons_background_color            : "#007aff"
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
@@ -102,7 +102,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - landing.png
 
 collections:
   pages:

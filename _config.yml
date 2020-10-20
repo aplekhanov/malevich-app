@@ -1,54 +1,50 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                :                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1508821387                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1532894165                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/apple-store/id1532894165?pt=869040&ct=landing&mt=8# Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://drive.google.com/drive/folders/1jK3yHKyrQ29d9reje6X45uVIfrbfByED?usp=sharing                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : We're all just wasting time until we die, so watch 'til you drop!
+app_description                           : Create beautiful icons and personalize your home screen like never before!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Very Legit LLC                              
-your_link                                 : https://verylegitllc.com                  
-your_city                                 : Brooklyn                                
-email_address                             : jared@dropvideo.io
+your_name                                 : Alexey Plekhanov                                
+your_link                                 : https://apps.apple.com/us/developer/alexey-plekhanov/id543015684
+your_city                                 :                                
+email_address                             : mail@aplekhanov.com
 facebook_username                         :                                           
-instagram_username                        : dropvideoapp
-twitter_username                          : dropvideoapp
-github_username                           : 
-youtube_username                          :
+instagram_username                        : 
+twitter_username                          : alexeyplekhanov
+github_username                           : aplekhanov
+youtube_username                          : 
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Waste Time
-    description                           : Just another social video app, but the first to claim we add absolutely no value to your life.
-    fontawesome_icon_name                 : trash
-  
-  - title                                 : We Don't Spy
-    description                           : "Another quality that sets this app apart: it doesn't harvest your data or spy on you. Honestly, I'm just not smart enough to figure out how..."
-    fontawesome_icon_name                 : eye-slash
-    
-  - title                                 : Create Timer
-    description                           : Whether it's cooking, a workout, or just distracting yourself until you die, set a countdown timer accompanied by videos
-    fontawesome_icon_name                 : clock
+  - title                                 : Colors
+    description                           : Hundreds of beautiful colors
+    fontawesome_icon_name                 : brush 
 
-  - title                                 : See Wasted Time
-    description                           : See how much time people have wasted on you and how much time others have wasted!
-    fontawesome_icon_name                 : users
+  - title                                 : Glyphs
+    description                           : Over 2000 system glyphs
+    fontawesome_icon_name                 : mobile 
+
+  - title                                 : Emoji & Text
+    description                           : Turn any emoji or a word into an icon
+    fontawesome_icon_name                 : smile 
 
 
 # Theme Settings
@@ -56,25 +52,25 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/purplecover.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.0
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : 
+cover_overlay_transparency                : 
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#007aff"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_text_color                        : "#333333"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#007aff"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
@@ -106,6 +102,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - landing.png
 
 collections:
   pages:

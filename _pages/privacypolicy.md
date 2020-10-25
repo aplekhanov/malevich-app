@@ -1,25 +1,37 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Policy & Terms
 include_in_header: false
 ---
 
 **Last updated**  
-October 1 2020
+October 25 2020
 
-# Privacy Policy
-Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you through our app, Color Icon Maker.
+# Privacy Policy & Terms
+I take your privacy very seriously. I neither want nor need to know anything about your personal data. To that end I’ve designed the app from the ground up to ensure that your data stays completely private.
 
-We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
+Malevich can optionally access some of your personal data for display within the app. This includes your photos. All of this access is handled using the standard iOS privacy prompts. If you give Malevich access to this data it will be read and displayed only within the app.
 
-We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
+I don’t want the responsibility of managing your data correctly, so I don’t collect it, which I think is better for both of us.
 
-We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+*Now for the legal boilerplate part of the Privacy Policy.*
 
-Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+## Personally-Identifying Information
 
-You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+Malevich does not gather or transmit any Personally-Identifying Information outside of your local device. It only stores preferences about the user interface within its local database.
 
-Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
+## Business Transfers
 
-This policy is effective as of 1 October 2020.
+If Malevich, or substantially all of its assets, were acquired, or in the unlikely event that Malevich goes out of business or enters bankruptcy, this policy and its effects may change or be amended. (As Malevich does not collect any information about you there is very little effect this would likely have in practice.)
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, Malevich may change its Privacy Policy from time to time, and at Malevich’s sole discretion. Your continued use of this app after any change in this Privacy Policy will constitute your acceptance of such change.
+
+## Indemnity
+
+You hereby indemnify us and undertake to keep us indemnified against any losses, damages, costs, liabilities and expenses (including, without limitation, legal expenses and any amounts paid by us to a third party in settlement of a claim or dispute on the advice of our legal advisers) incurred or suffered by us arising out of use of this app or any breach by you of any provision of these terms of use, or arising out of any claim that you have breached any provision of these terms of use.
+
+Your continued use of the app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about it, feel free to contact me by mail@aplekhanov.com
+
+This policy is effective as of 25 October 2020.

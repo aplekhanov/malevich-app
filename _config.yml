@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Create beautiful icons and personalize your home screen like never before!
+app_description                           : Create beautiful icons and widgets in a fun and easy way!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -53,24 +53,24 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_overlay_color                       : "#d8bc66"
 cover_overlay_transparency                : 0.0
 
 device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#fcec0c"
 
-link_color                                : "#1d63ea"
+link_color                                : "#136377"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#000000"
+app_price_color                           : "#136377"
+app_description_color                     : "#58482c"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#fcec0c"
+feature_icons_background_color            : "#000000"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"

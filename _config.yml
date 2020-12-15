@@ -61,7 +61,7 @@ cover_overlay_transparency                : 0.0
 
 device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#fcec0c"
+body_background_color                     : "#ffffff"
 
 link_color                                : "#136377"
 

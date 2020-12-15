@@ -34,21 +34,18 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Colors
-    description                           : Hundreds of beautiful colors
+  - title                                 : Custom Widgets
+    description                           : Without display name to show widgets more clear
+    fontawesome_icon_name                 : pen-square
+
+  - title                                 : Colors & Glyphs
+    description                           : Hundreds of beautiful colors and over 2000 system glyphs
     fontawesome_icon_name                 : brush
-  
-  - title                                 : Glyphs
-    description                           : Over 2000 system glyphs
-    fontawesome_icon_name                 : mobile
-    
+      
   - title                                 : Emoji & Text
     description                           : Turn any emoji or a word into an icon
     fontawesome_icon_name                 : smile
 
-  - title                                 : Custom Widgets
-    description                           : Without display name to show widgets more clear
-    fontawesome_icon_name                 : pen-square
 
 # Theme Settings
 topbar_color                              : "#000000"

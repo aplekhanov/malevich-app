@@ -5,12 +5,12 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 25 2020
+March O5 2021
 
 # Privacy Policy & Terms
 I take your privacy very seriously. I neither want nor need to know anything about your personal data. To that end I’ve designed the app from the ground up to ensure that your data stays completely private.
 
-Malevich can optionally access some of your personal data for display within the app. This includes your photos. All of this access is handled using the standard iOS privacy prompts. If you give Malevich access to this data it will be read and displayed only within the app.
+Icon Maker can optionally access some of your personal data for display within the app. This includes your photos. All of this access is handled using the standard iOS privacy prompts. If you give app access to this data it will be read and displayed only within the app.
 
 I don’t want the responsibility of managing your data correctly, so I don’t collect it, which I think is better for both of us.
 
@@ -18,15 +18,15 @@ I don’t want the responsibility of managing your data correctly, so I don’t 
 
 ## Personally-Identifying Information
 
-Malevich does not gather or transmit any Personally-Identifying Information outside of your local device. It only stores preferences about the user interface within its local database.
+The app does not gather or transmit any Personally-Identifying Information outside of your local device. It only stores preferences about the user interface within its local database.
 
 ## Business Transfers
 
-If Malevich, or substantially all of its assets, were acquired, or in the unlikely event that Malevich goes out of business or enters bankruptcy, this policy and its effects may change or be amended. (As Malevich does not collect any information about you there is very little effect this would likely have in practice.)
+If the app, or substantially all of its assets, were acquired, or in the unlikely event that Malevich goes out of business or enters bankruptcy, this policy and its effects may change or be amended. (As the app does not collect any information about you there is very little effect this would likely have in practice.)
 
 ## Privacy Policy Changes
 
-Although most changes are likely to be minor, Malevich may change its Privacy Policy from time to time, and at Malevich’s sole discretion. Your continued use of this app after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, the app may change its Privacy Policy from time to time, and at its sole discretion. Your continued use of this app after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ## Indemnity
 
@@ -34,4 +34,4 @@ You hereby indemnify us and undertake to keep us indemnified against any losses,
 
 Your continued use of the app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about it, feel free to contact me by mail@aplekhanov.com
 
-This policy is effective as of 25 October 2020.
+This policy is effective as of 05 March 2021.

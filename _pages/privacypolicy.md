@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-March O5 2021
+March 05 2021
 
 # Privacy Policy & Terms
 I take your privacy very seriously. I neither want nor need to know anything about your personal data. To that end I’ve designed the app from the ground up to ensure that your data stays completely private.

@@ -22,7 +22,7 @@ The app does not gather or transmit any Personally-Identifying Information outsi
 
 ## Business Transfers
 
-If the app, or substantially all of its assets, were acquired, or in the unlikely event that Malevich goes out of business or enters bankruptcy, this policy and its effects may change or be amended. (As the app does not collect any information about you there is very little effect this would likely have in practice.)
+If the app, or substantially all of its assets, were acquired, or in the unlikely event that app goes out of business or enters bankruptcy, this policy and its effects may change or be amended. (As the app does not collect any information about you there is very little effect this would likely have in practice.)
 
 ## Privacy Policy Changes
 

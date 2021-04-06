@@ -1,4 +1,4 @@
-# Malevich – Custom Icon Maker
+# Custom Icon Maker
 **Look different home screen.**
 
 The app lets you create beautiful icons in a relaxed and fun way!
@@ -8,6 +8,6 @@ Generated icons are pixel perfect and can be used in the "Open App" action of sh
 - Over 2000 system glyphs. 
 - Hundreds of beautiful colors.
 
-Malevich is the best companion for your favorite widget app. It lets you create beautiful icons in a fun and easy way! 
+Icon Maker is the best companion for your favorite widget app. It lets you create beautiful icons in a fun and easy way! 
 
 ![Malevich Icon Maker](/assets/landing.png)
